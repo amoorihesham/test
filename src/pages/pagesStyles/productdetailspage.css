@@ -1,0 +1,15 @@
+.details-box h5 .cate-span {
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #dc3545;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 92px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.details-box h5 span{
+    border-radius: 4px;
+}
