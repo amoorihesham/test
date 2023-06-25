@@ -20,7 +20,7 @@ function HomePage() {
   return (
     <Fragment>
       <div className="content-area pt-5">
-        <h1>Test Debloy</h1>
+       
         <div className="container">
           <div className="row g-4">{productUICard}</div>
         </div>
